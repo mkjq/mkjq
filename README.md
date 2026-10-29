@@ -3,7 +3,7 @@
 <p align="center">
   👋 Hi, I'm Mohammad — an IT student on the Pearson BTEC programme.<br>
   Outside class I build web apps, small tools and the occasional gadget, mostly to learn how things work.<br>
-  <sub>مرحباً، أنا محمد — طالب تكنولوجيا معلومات في برنامج BTEC، أبني تطبيقات ويب وأدوات وأجهزة صغيرة كهواية وللتعلّم.</sub>
+ 
 </p>
 
 ## 🛠️ Things I've built
