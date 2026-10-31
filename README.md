@@ -1,12 +1,10 @@
 <p align="center"><img src="assets/banner.png" alt="Mohammad Khaled Qatanany — IT student building web apps, tools and gadgets for fun"></p>
 
 <p align="center">
-  👋 Hi, I'm Mohammad — an IT student on the Pearson BTEC programme.<br>
-  Outside class I build web apps, small tools and the occasional gadget, mostly to learn how things work.<br>
+  👋 .<br>
  
 </p>
 
-## 🛠️ Things I've built
 
 <table>
   <tr>
@@ -55,7 +53,7 @@
   </tr>
 </table>
 
-## 🧰 Things I like working with
+
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" alt="TypeScript">
@@ -70,6 +68,6 @@
   <img src="https://img.shields.io/badge/ESP32_·_Arduino-00979d?logo=arduino&logoColor=white" alt="ESP32 and Arduino">
 </p>
 
-## 📫 Find me
+
 
 🌐 [mkq.one](https://mkq.one)
